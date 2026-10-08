@@ -10,6 +10,16 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
+        <queries>
+        <package android:name="org.jpi59.ethicnotes" />
+        <package android:name="org.jpi59.ethiccompass" />
+        <package android:name="org.jpi59.ethicqrscanner" />
+        <package android:name="org.jpi59.teclado" />
+        <package android:name="org.jpi59.ethictuner" />
+        <package android:name="org.jpi59.ethicupdatesafe" />
+        <package android:name="org.jpi59.ethichandoff" />
+        <package android:name="org.senda.browser" />
+    </queries>
     <application
         android:theme="@style/AppTheme"
         android:label="@string/app_name"
