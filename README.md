@@ -37,5 +37,7 @@ The icon in this repository is an original vector created for this project,
 with no third-party image asset. This statement describes the source of the
 asset; it is not a legal guarantee that no unrelated patent exists anywhere.
 
-Licensed under GPL-3.0-or-later. The project is submitted to F-Droid
-for review; submission does not imply acceptance or publication.
+Licensed under GPL-3.0-or-later.
+
+Ethic One Call is available on [F-Droid](https://f-droid.org/packages/org.jpi59.ethichandoff/). Production-signed
+APKs are also published on [GitHub Releases](https://github.com/IDEH-Labs/ethic-one-call/releases).
