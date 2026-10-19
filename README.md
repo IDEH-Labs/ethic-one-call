@@ -40,4 +40,4 @@ asset; it is not a legal guarantee that no unrelated patent exists anywhere.
 Licensed under GPL-3.0-or-later.
 
 Ethic One Call is available on [F-Droid](https://f-droid.org/packages/org.jpi59.ethichandoff/). Production-signed
-APKs are also published on [GitHub Releases](https://github.com/IDEH-Labs/ethic-one-call/releases).
+APKs are also published on [Codeberg Releases](https://codeberg.org/IDEH-Labs/ethic-one-call-local/releases) (mirrored on [GitHub Releases](https://github.com/IDEH-Labs/ethic-one-call/releases)).
